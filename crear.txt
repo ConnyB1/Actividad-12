@@ -1,0 +1,4 @@
+N° Registro Matrícula      Nombre          Ap. Paterno     Ap. Materno     Sexo      
+98           307792          Felipe          Salazar         Rodriguez       HOMBRE         
+99           322803          Paola           Jimenez         Cruz            MUJER          
+100          307319          Obama           Paredes         Mendoza         HOMBRE         
